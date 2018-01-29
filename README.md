@@ -18,5 +18,5 @@ na pasta target executar o commando:
 
 java -jar springbatch-0.0.1.jar
 
-Ao subir o Tomcatcat no browser chamar a API Rest, para iniciar o JOB:
+Ao subir o Tomcat, no browser chamar a API Rest para iniciar o JOB:
 http://localhost:8080/launchjob
